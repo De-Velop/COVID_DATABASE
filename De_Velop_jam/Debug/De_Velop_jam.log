@@ -1,0 +1,26 @@
+﻿  Source.cpp
+D:\VS_programs\De_Velop_jam\De_Velop_jam\Country.h(21,156): warning C4244: аргумент: преобразование "unsigned __int64" в "float", возможна потеря данных
+D:\VS_programs\De_Velop_jam\De_Velop_jam\Country.h(21,153): warning C4244: аргумент: преобразование "unsigned __int64" в "float", возможна потеря данных
+D:\VS_programs\De_Velop_jam\De_Velop_jam\Country.h(28,18): warning C4244: =: преобразование "unsigned __int64" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+D:\VS_programs\De_Velop_jam\De_Velop_jam\Country.h(28,35): warning C4244: =: преобразование "unsigned __int64" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+D:\VS_programs\De_Velop_jam\De_Velop_jam\Country.h(36,34): warning C4244: аргумент: преобразование "float" в "unsigned int", возможна потеря данных
+D:\VS_programs\De_Velop_jam\De_Velop_jam\Country.h(36,26): warning C4244: аргумент: преобразование "float" в "unsigned int", возможна потеря данных
+D:\VS_programs\De_Velop_jam\De_Velop_jam\Camera.h(25,1): warning C4244: *=: преобразование "double" в "float", возможна потеря данных
+D:\VS_programs\De_Velop_jam\De_Velop_jam\Camera.h(27,15): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\VS_programs\De_Velop_jam\De_Velop_jam\Menu.h(49,24): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\VS_programs\De_Velop_jam\De_Velop_jam\Menu.h(49,21): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\VS_programs\De_Velop_jam\De_Velop_jam\Menu.h(63,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\VS_programs\De_Velop_jam\De_Velop_jam\Source.cpp(42,44): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\VS_programs\De_Velop_jam\De_Velop_jam\Source.cpp(42,29): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\VS_programs\De_Velop_jam\De_Velop_jam\Source.cpp(100,26): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+D:\VS_programs\De_Velop_jam\De_Velop_jam\Source.cpp(101,26): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+D:\VS_programs\De_Velop_jam\De_Velop_jam\Source.cpp(123,34): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  De_Velop_jam.vcxproj -> D:\VS_programs\De_Velop_jam\Debug\De_Velop_jam.exe

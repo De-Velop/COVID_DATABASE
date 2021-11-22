@@ -1,0 +1,9 @@
+﻿  Source.cpp
+D:\VS_programs\De_Velop_jam\De_Velop_jam\Picture.h(18,25): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\VS_programs\De_Velop_jam\De_Velop_jam\Picture.h(18,22): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\VS_programs\De_Velop_jam\De_Velop_jam\Country.h(39,60): warning C4244: аргумент: преобразование "float" в "sf::Uint8", возможна потеря данных
+D:\VS_programs\De_Velop_jam\De_Velop_jam\Source.cpp(63,19): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+D:\VS_programs\De_Velop_jam\De_Velop_jam\Source.cpp(64,19): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+D:\VS_programs\De_Velop_jam\De_Velop_jam\Source.cpp(84,46): warning C4244: *=: преобразование "double" в "float", возможна потеря данных
+D:\VS_programs\De_Velop_jam\De_Velop_jam\Source.cpp(86,17): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+sfml-graphics-s-d.lib(RenderStates.cpp.obj) : fatal error LNK1112: тип компьютера модуля "x86" конфликтует с типом целевого компьютера "x64"
