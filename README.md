@@ -8,3 +8,6 @@ You can click on each country to see the related information.
 "Show graph" button draws the graph of covid 19 spreading.
 
 You can zoom in the app and move the view by moving cursor to the screen borders.
+
+Press "Esc" to escape from the app
+ 
